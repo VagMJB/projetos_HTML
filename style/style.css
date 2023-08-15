@@ -9,7 +9,7 @@ header{
     padding: 5px 0;
 }
 
-.container {
+.container1 {
     max-width: 1500px;
     margin: 10px;
     height: 60px;
@@ -52,9 +52,28 @@ nav ul li a {
 
 .menu li a{
     margin: 5px;
-    
-
 }
 
+.container2{
+    height: 80px;
+}
 
+footer{
+    background-color: cadetblue;
+    padding: 5px;
+   
+}
+
+footer ul {
+    list-style: none;
+    padding-left: 10px;
+    
+    
+}
+
+footer ul li a{
+    text-decoration: none;
+    margin-bottom: 20px;
+    
+}
 
